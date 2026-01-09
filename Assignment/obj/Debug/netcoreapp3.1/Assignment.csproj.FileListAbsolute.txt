@@ -1,0 +1,15 @@
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll.config
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\obj\Debug\netcoreapp3.1\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\obj\Debug\netcoreapp3.1\Assignment.sourcelink.json
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\finle\Downloads\Assignment1_StartingPoint\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
